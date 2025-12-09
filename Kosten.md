@@ -4,4 +4,5 @@ Buchung Strecke Ticketpreis (Basis) Platzreservierung Gesamtkosten pro Strecke S
   Prag – Budapest 29,49 € 2,99 € 32,48 € (In Buchung 1 enthalten)  
 2. Budapest – Belgrad 22,99 € 3,99 € 26,98 € 0,99 € 27,97 €
 3. Budapest – Temeswar 18,99 € 3,29 € 22,28 € 0,99 € 23,27 €
+
 GESAMT (Alle Fahrten)           98,19
