@@ -11,6 +11,9 @@ Ein Abenteuer mit Busfahrten und Wanderungen im Osten Europas
 - [Alles was bereits passiert ist](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues?q=is%3Aissue+is%3Aclosed)
 - *Updates bei Bock und Empfang*
 
+## Kosten
+[Reisekosten](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/blob/main/Kosten.md)
+
 ## Zeitschiene... es wird knapp
 - 8.12. Chemnitz, 6:05 Fahrt nach Budapest
 - 9.12. Budapest, Stadtrunde und 15:05 nach Temeschwar
