@@ -18,10 +18,10 @@ Ein Abenteuer mit Busfahrten und Wanderungen im Osten Europas
 - 8.12. Chemnitz, 6:05 Fahrt nach Budapest
 - 9.12. Budapest, Stadtrunde und 15:05 nach Temeschwar
 - 10.12. Temeschwar, Stadttour
-- 11.12. Temeschwar, Frühstück, 12:45 Bus nach Vidin 
-- 12.12. Vidin, Bus nach Sofia
-- 13.12. Sofia, Bus nach Thessaloniki
-- 14.12. Thessaloniki - Anreise Wandergebiet
+- 11.12. Temeschwar, Frühstück, 12:45 Bus nach Sofia 11h Fahrt im Minibus 🫣
+- 12.12. Sofia, Bus nach Thessaloniki
+- 13.12. Thessaloniki 
+- 14.12. Anreise Wandergebiet + Start
 - 15.12. Wanderung
 - 16.12. Wanderung Rückweg
 - 17.12. Übergang nach Thessaloniki, evtl Rückflug
