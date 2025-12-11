@@ -1,7 +1,7 @@
 # ost-im-bus-und-zu-fuss-log
 Ein Abenteuer mit Busfahrten und Wanderungen im Osten Europas
 
-[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/41RJDAmFA91iF8DQ7)
+[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/tM95whpCkKq2SXML6)
 (kann man anklicken😋)
 
 
