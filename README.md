@@ -34,7 +34,8 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 - 17.12. Thessaloniki + evtl Rückflug
 - 18.12. Puffertag für Rückflug oder Schnellheilung bei gebrochenen Knochen 😅
 
-eigtl. habe ich 2 Übernachtungen beim Wandern geplant, das schaffe ich aber kaum, die Ankunft in Thessaloniki und der Übergang (200km) ins Wandergebiet sind sonst sehr stressig.
+---> Durchziehen an Tag 4 mit dem Minibus und direkt Mittag aus Sofia weiter haben mir mehr als einen ganzen Tag freigeräumt. 
+im Sofia issues mir dabei echt bissl Schade, aber safe 3 Tage Wandern können ohne Stress in Thessaloniki hat die Entscheidung befeuert.
 
 ## Wetter im Wandergebiet
 - es wird um / knapp unter Null
