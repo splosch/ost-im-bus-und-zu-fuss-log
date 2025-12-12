@@ -5,7 +5,7 @@ Ein Abenteuer mit Busfahrten und Wanderungen im Osten Europas
 (kann man anklicken😋)
 
 ## "Ahhhh!!! Osteuropa Katastrophe, alles kaputt"
-[Eindrücke nur von einer Busfahrt[(https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/15)
+[Eindrücke nur von einer Busfahrt](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/15)
 
 ## Tour-Plan und Reiselog incl. Bilder
 - [letzte Logeintrag](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/16)
