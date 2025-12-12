@@ -1,12 +1,14 @@
 # ost-im-bus-und-zu-fuss-log
 Ein Abenteuer mit Busfahrten und Wanderungen im Osten Europas
 
+Es.gab anfangs nur ne grobe Idee, die Busse zu den Zielorden werden meist erst am Vortag gebucht. Die Unterkünft manchmal auch erst am selben Tag.
+
 [![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/SW1vsYYGtgwVm3wf7)
 (kann man anklicken😋)
 
 
 ## "Ahhhh!!! Osteuropa Katastrophe, alles kaputt"
-[Eindrücke nur von einer Busfahrt](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/15)
+[Eindrücke, von Menschen und dem Miteinander ](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/15)
 
 ## Tour-Plan und Reiselog incl. Bilder
 - [letzte Logeintrag](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/16)
