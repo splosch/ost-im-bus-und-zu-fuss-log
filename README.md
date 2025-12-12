@@ -1,5 +1,6 @@
 # ost-im-bus-und-zu-fuss-log
-Ein Abenteuer mit Busfahrten und Wanderungen im Osten Europas
+Ein Abenteuer mit Busfahrten und Wanderungen im Osten Europa.
+*Updates bei Bock und Empfang*
 
 Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vortag gebucht. Die Unterkünft manchmal auch erst am selben Tag.
 
@@ -14,12 +15,9 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 - [letzte Logeintrag](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/16)
 - [Aktuell und Plan](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues?q=is%3Aissue+is%3Aclosed)
-- *Updates bei Bock und Empfang*
+-[Reisekosten prio 0 😅](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/blob/main/Kosten.md)
 
-## Kosten
-[Reisekosten](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/blob/main/Kosten.md)
-
-## Zeitschiene... es wird knapp
+## Zeitschiene
 - 8.12. [Tag 1 - Chemnitz, 6:05 Fahrt nach Budapest](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/1)
 - 9.12. [Tag 2 - Budapest, Stadtrunde und 15:05 nach Temeschwar](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/2)
 - 10.12. [Tag 3 - Temeschwar, Stadttour](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/12)
