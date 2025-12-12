@@ -35,7 +35,8 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 - 18.12. Puffertag für Rückflug oder Schnellheilung bei gebrochenen Knochen 😅
 
 ---> Durchziehen an Tag 4 mit dem Minibus und direkt Mittag aus Sofia weiter haben mir mehr als einen ganzen Tag freigeräumt. 
-im Sofia issues mir dabei echt bissl Schade, aber safe 3 Tage Wandern können ohne Stress in Thessaloniki hat die Entscheidung befeuert.
+Um Sofia isses mir dabei echt bissl schade,
+genau meine Stadt, aber safe 3 Tage Wandern können ohne Stress in Thessaloniki hat die Entscheidung befeuert.
 
 ## Wetter im Wandergebiet
 - es wird um / knapp unter Null
