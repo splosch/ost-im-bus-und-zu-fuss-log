@@ -22,7 +22,7 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 ## Zeitschiene... es wird knapp
 - 8.12. [Tag 1 - Chemnitz, 6:05 Fahrt nach Budapest](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/1)
 - 9.12. [Tag 2 - Budapest, Stadtrunde und 15:05 nach Temeschwar](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/2)
-- 10.12. Tag 3 - Temeschwar, Stadttour
+- 10.12. [Tag 3 - Temeschwar, Stadttour](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/12)
 - 11.12. Tag 4 - Temeschwar im Minibus 11h nach Sofia 🫣
 - 12.12. Sofia Frühstück und Bus nach Thessaloniki
 - 13.12. Thessaloniki und Fahrt nach Litochoro 
