@@ -1,7 +1,7 @@
 # ost-im-bus-und-zu-fuss-log
 Ein Abenteuer mit Busfahrten und Wanderungen im Osten Europas
 
-Es.gab anfangs nur ne grobe Idee, die Busse zu den Zielorden werden meist erst am Vortag gebucht. Die Unterkünft manchmal auch erst am selben Tag.
+Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vortag gebucht. Die Unterkünft manchmal auch erst am selben Tag.
 
 [![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/SW1vsYYGtgwVm3wf7)
 (kann man anklicken😋)
