@@ -40,14 +40,14 @@ Um Sofia isses mir dabei echt bissl schade,
 genau meine Stadt, aber safe 3 Tage Wandern können ohne Stress in Thessaloniki hat die Entscheidung befeuert.
 
 ## Wetter im Wandergebiet
-- es wird um / knapp unter Null
+- Im Bereich der Gipfel wird es um / knapp unter Null
 - Neblig, nass, Niederschlag
 - es liegt Schnee 
 - Wandersaison (mit geöffneten Unterkünften Mai-Oktober)
 - Skigebiete öffnen, es gibt im Skigebiet eine Trainingsort des Griechischen Militärs das auch für geführte Wintertouren als Startort genutzt wird (mit Auto erreichbar)
-- der Gipfel Myticas wird für mich auf meiner Tour nicht erreichbar sein. einige  Wanderberichte die ich mir angeschaut habeberichten für trockene Bedingungen anspruchsvolle Abschnitte die ich mir zutraue, bei Nässe wird abgeraten weil Zu und Abstieg ausgesetzt und sehr steil, mit Kletterpassagen die Handeinsatz benötigen.
-Da oben Schnee und Eis liegt - keine Chance
-- geführte Gipfeltouren sind in Seilschaften durchgeführt, im Winter benötigts Eispickel und Steigeisen
+- der Gipfel Myticas wird für mich auf meiner Tour nicht erreichbar sein. einige  Wanderberichte die ich mir angeschaut habe, berichten von anspruchsvollen Abschnitten, die ich mir bei Trockenheit zutraue, bei Nässe wird es rutschig und bei Schnee und Eis ist es eine komplett andere Geschichte und für mich nichts. Zu und Abstieg sind im oberen Bereich über lange Passgen ausgesetzt und sehr steil, mit langen Kletterpassagen die Handeinsatz benötigen. 
+
+Geführte Gipfeltouren sind in Seilschaften durchgeführt, im Winter benötigts Eispickel und Steigeisen
 
 ... aber ich kann sicher auf der Südseite bis an den Fuß der Kletterpassagen ran hab den Blick aufs Meer und es wird fast nix lossein
 
