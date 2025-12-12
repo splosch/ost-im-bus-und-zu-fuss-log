@@ -27,10 +27,11 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 - 12.12. [Sofia Frühstück und Bus nach Thessaloniki](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/16)
 - 13.12. Thessaloniki und Fahrt nach Litochoro 
   - Basecamp zum Wandergebiet und strategische Unterkunft (Campen ist ja verboten 🫣)
-  - Start Wanderung
+  - Vorbereitung Wanderung (Essen, Ausrüstung)
+- [Ideen und Tourenpläne](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/10)
 - 14.12. Wanderung
-- 15.12. Wanderung Rückweg
-- 16.12. Zurück nach Thessaloniki
+- 15.12. Wanderung
+- 16.12. Wanderung Ende / Rückgabe Leihkram / Zurück nach Thessaloniki
 - 17.12. Thessaloniki + evtl Rückflug
 - 18.12. Puffertag für Rückflug oder Schnellheilung bei gebrochenen Knochen 😅
 
