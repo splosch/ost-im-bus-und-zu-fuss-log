@@ -15,7 +15,7 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 - [letzte Logeintrag](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/16)
 - [Aktuell und Plan](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues?q=is%3Aissue+is%3Aclosed)
--[Reisekosten prio 0 😅](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/blob/main/Kosten.md)
+- [Reisekosten prio 0 😅](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/blob/main/Kosten.md)
 
 ## Zeitschiene
 - 8.12. [Tag 1 - Chemnitz, 6:05 Fahrt nach Budapest](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/1)
