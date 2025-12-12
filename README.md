@@ -12,7 +12,7 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 [Eindrücke, von Menschen und dem Miteinander ](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/15)
 
 ## Tour-Plan und Reiselog incl. Bilder
-- [letzte Logeintrag](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/16)
+- [letzte Logeintrag](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/18)
 - [Aktuell und Plan](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues?q=is%3Aissue+is%3Aclosed)
 - [Reisekosten prio 0 😅](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/blob/main/Kosten.md)
@@ -22,8 +22,8 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 - 9.12. [Tag 2 - Budapest, Stadtrunde und 15:05 nach Temeschwar](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/2)
 - 10.12. [Tag 3 - Temeschwar, Stadttour](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/12)
 - 11.12. [Tag 4 - Temeschwar im Minibus 11h nach Sofia 🫣](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/13)
-- 12.12. [Sofia Frühstück und Bus nach Thessaloniki](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/16)
-- 13.12. Thessaloniki und Fahrt nach Litochoro 
+- 12.12. [Tag 5 - Sofia Frühstück und Bus nach Thessaloniki](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/16)
+- 13.12. [Tag 6 - Thessaloniki und Fahrt nach Litochoro](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/18) 
   - Basecamp zum Wandergebiet und strategische Unterkunft (Campen ist ja verboten 🫣)
   - Vorbereitung Wanderung (Essen, Ausrüstung)
 - [Ideen und Tourenpläne](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/10)
