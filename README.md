@@ -17,17 +17,19 @@ Ein Abenteuer mit Busfahrten und Wanderungen im Osten Europas
 [Reisekosten](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/blob/main/Kosten.md)
 
 ## Zeitschiene... es wird knapp
-- 8.12. Chemnitz, 6:05 Fahrt nach Budapest
-- 9.12. Budapest, Stadtrunde und 15:05 nach Temeschwar
-- 10.12. Temeschwar, Stadttour
-- 11.12. Temeschwar, Frühstück, 12:45 Bus nach Sofia 11h Fahrt im Minibus 🫣
-- 12.12. Sofia, Bus nach Thessaloniki
-- 13.12. Thessaloniki 
-- 14.12. Anreise Wandergebiet + Start
-- 15.12. Wanderung
-- 16.12. Wanderung Rückweg
-- 17.12. Übergang nach Thessaloniki, evtl Rückflug
-- 18.12. Puffertag für Rückflug
+- 8.12. Tag 1 - Chemnitz, 6:05 Fahrt nach Budapest
+- 9.12. Tag 2 - Budapest, Stadtrunde und 15:05 nach Temeschwar
+- 10.12. Tag 3 - Temeschwar, Stadttour
+- 11.12. Tag 4 - Temeschwar im Minibus 11h nach Sofia 🫣
+- 12.12. Sofia Frühstück und Bus nach Thessaloniki
+- 13.12. Thessaloniki und Fahrt nach Litochoro 
+  - Basecamp zum Wandergebiet und strategische Unterkunft (Campen ist ja verboten 🫣)
+  - Start Wanderung
+- 14.12. Wanderung
+- 15.12. Wanderung Rückweg
+- 16.12. Zurück nach Thessaloniki
+- 17.12. Thessaloniki + evtl Rückflug
+- 18.12. Puffertag für Rückflug oder Schnellheilung bei gebrochenen Knochen 😅
 
 eigtl. habe ich 2 Übernachtungen beim Wandern geplant, das schaffe ich aber kaum, die Ankunft in Thessaloniki und der Übergang (200km) ins Wandergebiet sind sonst sehr stressig.
 
