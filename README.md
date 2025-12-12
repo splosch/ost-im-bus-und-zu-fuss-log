@@ -1,8 +1,9 @@
 # ost-im-bus-und-zu-fuss-log
 Ein Abenteuer mit Busfahrten und Wanderungen im Osten Europas
 
-[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/tM95whpCkKq2SXML6)
+[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/SW1vsYYGtgwVm3wf7)
 (kann man anklicken😋)
+
 
 ## "Ahhhh!!! Osteuropa Katastrophe, alles kaputt"
 [Eindrücke nur von einer Busfahrt](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/15)
