@@ -12,7 +12,7 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 [Eindrücke, von Menschen und dem Miteinander ](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/15)
 
 ## Tour-Plan und Reiselog incl. Bilder
-- [letzte Logeintrag](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/18)
+- [letzte Logeintrag](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/19)
 - [Aktuell und Plan](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues?q=is%3Aissue+is%3Aclosed)
 - [Reisekosten prio 0 😅](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/blob/main/Kosten.md)
@@ -27,7 +27,7 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
   - Basecamp zum Wandergebiet und strategische Unterkunft (Campen ist ja verboten 🫣)
   - Vorbereitung Wanderung (Essen, Ausrüstung)
 - [Ideen und Tourenpläne](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/10)
-- 14.12. Wanderung
+- 14.12. [Tag 7 erste Wanderung](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/19)
 - 15.12. Wanderung
 - 16.12. Wanderung Ende / Rückgabe Leihkram / Zurück nach Thessaloniki
 - 17.12. Thessaloniki + evtl Rückflug
