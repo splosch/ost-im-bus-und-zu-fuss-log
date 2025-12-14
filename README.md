@@ -27,8 +27,8 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
   - Basecamp zum Wandergebiet und strategische Unterkunft (Campen ist ja verboten 🫣)
   - Vorbereitung Wanderung (Essen, Ausrüstung)
 - [Ideen und Tourenpläne](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/10)
-- 14.12. [Tag 7 Wandern mit Nachtlager](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/19)
-- 15.12. Wanderung
+- 14.12. [Tag 7 - Wandern mit Nachtlager](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/19)
+- 15.12. [Tag 8 - Früh raus und im Sonnenaufgang ab auf 1900m](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/20)
 - 16.12. Wanderung am Abend wieder in der Unterkunft
 - 17.12. Baden in Litochoro, Essen und am Nachmittag Fahrt nach Thessaloniki und letzte Nacht in Griechenland 
 - 18.12. Rückflug 9:25 nach Berlin
