@@ -29,9 +29,10 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 - [Ideen und Tourenpläne](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/10)
 - 14.12. [Tag 7 erste Wanderung](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/19)
 - 15.12. Wanderung
-- 16.12. Wanderung Ende / Rückgabe Leihkram / Zurück nach Thessaloniki
-- 17.12. Thessaloniki + evtl Rückflug
-- 18.12. Puffertag für Rückflug oder Schnellheilung bei gebrochenen Knochen 😅
+- 16.12. Wanderung am Abend wieder in der Unterkunft
+- 17.12. Fahrt nach Thessaloniki und letzte Nacht hier
+- 18.12. Rückflug 9:25 nach Berlin
+
 
 ---> Durchziehen an Tag 4 mit dem Minibus und direkt Mittag aus Sofia weiter haben mir mehr als einen ganzen Tag freigeräumt. 
 Um Sofia isses mir dabei echt bissl schade,
