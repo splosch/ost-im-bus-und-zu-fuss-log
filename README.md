@@ -7,8 +7,6 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 [![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/ECEn94rsJrpWSbEJ6)
 (kann man anklicken😋)
 
-https://maps.app.goo.gl
-
 
 ## "Ahhhh!!! Osteuropa Katastrophe, alles kaputt"
 [Eindrücke, von Menschen und dem Miteinander ](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/15)
