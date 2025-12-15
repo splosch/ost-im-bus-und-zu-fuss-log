@@ -4,8 +4,10 @@ Ein Abenteuer mit Busfahrten und Wanderungen im Osten Europa.
 
 Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vortag gebucht. Die Unterkünft manchmal auch erst am selben Tag.
 
-[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/JUwak5BUvitJ4wkP8)
+[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/ECEn94rsJrpWSbEJ6)
 (kann man anklicken😋)
+
+https://maps.app.goo.gl
 
 
 ## "Ahhhh!!! Osteuropa Katastrophe, alles kaputt"
