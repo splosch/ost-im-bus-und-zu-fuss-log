@@ -27,7 +27,7 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
   - Vorbereitung Wanderung (Essen, Ausrüstung)
 - [Ideen und Tourenpläne](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/10)
 - 14.12. [Tag 7 - Wandern mit Nachtlager](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/19)
-- 15.12. [Tag 8 - Früh raus und im Sonnenaufgang ab und in der Dunkelheit zurück](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/20)
+- 15.12. [Tag 8 - Im Sonnenaufgang auf 1900m und in der Dunkelheit zurück](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/20)
 - 16.12. [Tag 9 - Ruhe und Meer? Eher Rührei und Hunderudel](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/21)
 - 17.12. [Tag 10 - Zurück nach Thessaloniki](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/22)
 - 18.12. Rückflug 9:25 nach Berlin
