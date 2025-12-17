@@ -1,5 +1,6 @@
-Reisekosten Übersicht
-Fahrtkosten
+# Reisekosten Übersicht
+## Fahrtkosten
+
 | Tag | Buchung | Strecke | Ticket | Reserv. | Summe | Gebühr | Gesamt |
 |---|---|---|---|---|---|---|---|
 | 1 | 1 FlixBus | Chemnitz - Prag | 10,99 € | 2,49 € | 13,48 € | 0,99 € | 45,96 € |
@@ -12,8 +13,12 @@ Fahrtkosten
 | 10 | 7 | Litochoro - Thessal. | 9,00 € | 0,00 € | 9,00 € | 0,00 € | 9,00 € |
 | 11 | 8 Flug | Thessal. - Berlin | 79,38 € | 0,00 € | 79,38 € | 0,00 € | 79,38 € |
 | 11 | 9 IC | Berlin - Chemnitz | 27,99 € | 0,00 € | 27,99 € | 0,00 € | 27,99 € |
+
 GESAMT (Fahrtkosten): 235,29 €
-Unterkünfte
+
+
+## Unterkünfte
+
 | Tag | Ort | Unterkunft | Nächte | pro Nacht | Gesamt | Status |
 |---|---|---|---|---|---|---|
 | 1 | Prag | keine Unterkunft | 0 | 0,00 € | 0,00 € | - |
@@ -23,8 +28,11 @@ Unterkünfte
 | 5 | Thessaloniki | Soho (Apartment) | 1 | 61,00 € | 61,00 € | Bezahlt |
 | 6-9 | Litochoro | Helen's Cosi (Apt.) | 4 | 68,00 € | 272,00 € | Bezahlt |
 | 10 | Thessaloniki | Iris Hotel (Fr.) | 1 | 65,50 € | 65,50 € | Bezahlt |
+
 GESAMT (Unterkünfte): 576,94 €
-Verpflegung (Essen gehen / Selbstversorgung)
+
+## Verpflegung (Essen gehen / Selbstversorgung)
+
 | Tag | Ort | Beschreibung | Kosten |
 |---|---|---|---|
 | 1 | Budapest | Essen gehen | 20,00 € |
@@ -36,7 +44,8 @@ Verpflegung (Essen gehen / Selbstversorgung)
 | 8 | Litochoro | (noch offen) | - € |
 | 9 | Litochoro | Restaurantbesuch | 15,00 € |
 | 10 | Thessaloniki | Essen gehen | 28,00 € |
+
 GESAMT (Verpflegung): 182,00 €
-Aktueller Gesamtbetrag der Reise: 994,23 €
-Rechenweg:
+
+Aktueller Gesamtbetrag der Reise:
 Fahrten (235,29 €) + Unterkunft (576,94 €) + Verpflegung (182,00 €) = 994,23 €
