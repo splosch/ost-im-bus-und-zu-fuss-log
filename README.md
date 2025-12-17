@@ -11,7 +11,7 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 [Eindrücke, von Menschen und dem Miteinander ](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/15)
 
 ## Tour-Plan und Reiselog incl. Bilder
-- [letzte Logeintrag](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/21)
+- [letzte Logeintrag](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/22)
 - [Aktuell und Plan](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues?q=is%3Aissue+is%3Aclosed)
 - [Reisekosten prio 0 😅](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/blob/main/Kosten.md)
@@ -29,7 +29,7 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 - 14.12. [Tag 7 - Wandern mit Nachtlager](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/19)
 - 15.12. [Tag 8 - Früh raus und im Sonnenaufgang ab und in der Dunkelheit zurück](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/20)
 - 16.12. [Tag 9 - Ruhe und Meer](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/21)
-- 17.12. Zurück nach Thessaloniki
+- 17.12. [Tag 10 - Zurück nach Thessaloniki](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/22)
 - 18.12. Rückflug 9:25 nach Berlin
 
 
