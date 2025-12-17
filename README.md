@@ -4,9 +4,8 @@ Ein Abenteuer mit Busfahrten und Wanderungen im Osten Europa.
 
 Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vortag gebucht. Die Unterkünft manchmal auch erst am selben Tag.
 
-[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/ECEn94rsJrpWSbEJ6)
+[![Letzter Standort - Mario](https://img.shields.io/badge/Letzter_Standort-Mario-brightgreen?style=for-the-badge&logo=map&logoColor=white)](https://maps.app.goo.gl/Y4WhzAoKu89Bxov16)
 (kann man anklicken😋)
-
 
 ## "Ahhhh!!! Osteuropa Katastrophe, alles kaputt"
 [Eindrücke, von Menschen und dem Miteinander ](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/15)
@@ -30,7 +29,7 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 - 14.12. [Tag 7 - Wandern mit Nachtlager](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/19)
 - 15.12. [Tag 8 - Früh raus und im Sonnenaufgang ab und in der Dunkelheit zurück](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/20)
 - 16.12. [Tag 9 - Ruhe und Meer](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/21)
-- 17.12. Baden in Litochoro, Essen und am Nachmittag Fahrt nach Thessaloniki und letzte Nacht in Griechenland 
+- 17.12. Zurück nach Thessaloniki
 - 18.12. Rückflug 9:25 nach Berlin
 
 
