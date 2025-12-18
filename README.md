@@ -11,10 +11,10 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 [Eindrücke, von Menschen und dem Miteinander ](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/15)
 
 ## Tour-Plan und Reiselog incl. Bilder
-- [letzte Logeintrag](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/22)
+- [letzte Logeintrag](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/24)
 - [Aktuell und Plan](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues?q=sort%3Acreated-asc)
 - [Alles was bereits passiert ist](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues?q=is%3Aissue+is%3Aclosed)
-- [Reisekosten prio 0 😅](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/blob/main/Kosten.md)
+- [Reisekosten 😅](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/blob/main/Kosten.md)
 
 ## Zeitschiene
 - 8.12. [Tag 1 - Chemnitz, 6:05 Fahrt nach Budapest](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/1)
@@ -31,7 +31,7 @@ Es gab anfangs nur ne grobe Idee, die Busse zu den Zielorten werden meist am Vor
 - 15.12. [Tag 8 - Im Sonnenaufgang auf 1900m und in der Dunkelheit zurück](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/20)
 - 16.12. [Tag 9 - Ruhe und Meer? Eher Rührei und Hunderudel](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/21)
 - 17.12. [Tag 10 - Zurück nach Thessaloniki](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/22)
-- 18.12. Rückflug 9:25 nach Berlin
+- 18.12. [Rückflug 9:25 nach Berlin](https://github.com/splosch/ost-im-bus-und-zu-fuss-log/issues/24)
 
 
 ---> Durchziehen an Tag 4 mit dem Minibus und direkt Mittag aus Sofia weiter haben mir mehr als einen ganzen Tag freigeräumt. 
